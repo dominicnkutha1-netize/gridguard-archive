@@ -1,17 +1,23 @@
-# Eskom Grid — early prototype
+# GridGuard — first prototype (superseded)
 
-**Superseded.** This is an early working draft of the GridGuard AI concept, kept for
-history. It's messier, less complete, and has no documentation.
+The first working draft of the GridGuard AI concept, kept for history.
 
-👉 **Use [dominicnkutha1-netize/Eskomgrid](https://github.com/dominicnkutha1-netize/Eskomgrid) instead** —
-that's the maintained version, with the full pitch, demo views and hardware blueprint.
+**The maintained version is [gridguard](https://github.com/dominicnkutha1-netize/gridguard)** —
+it has the full problem statement, the complete demo and the hardware blueprint.
 
-## Why it still exists
+## What this was
 
-It's the version I built first, before I understood the problem well enough to structure the
-demo properly. I'm leaving it up rather than deleting it, because pretending the first draft
-didn't happen is its own kind of dishonesty.
+An early attempt at the same idea, built in static HTML before the problem was
+properly understood: a control room, a technician check-in flow, a resident view
+and a transformer simulation.
 
-If you're a recruiter or another developer looking at my work: **ignore this repo.** Look at
-[Eskomgrid](https://github.com/dominicnkutha1-netize/Eskomgrid) and
-[ConnectHub](https://github.com/dominicnkutha1-netize/ConnectHub).
+It is messier and less complete than the version that replaced it. That is the
+normal shape of a first draft, and keeping it is more honest than pretending the
+first attempt did not happen.
+
+## Status
+
+**Archived.** The pages still open in a browser, but this repository is not
+maintained and is not the one to look at.
+
+→ [dominicnkutha1-netize/gridguard](https://github.com/dominicnkutha1-netize/gridguard)
